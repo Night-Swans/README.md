@@ -1,1 +1,1 @@
-console.log("Bird")
+const gold = "extra";
